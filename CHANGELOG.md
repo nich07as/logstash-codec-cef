@@ -1,3 +1,12 @@
+## 5.0.2
+  - Update gemspec summary
+
+## 5.0.1
+  - Fix some documentation issues
+
+## 5.0.0
+ - move `sev` and `deprecated_v1_fields` fields from deprecated to obsolete
+
 ## 4.1.2
  - added mapping for outcome = eventOutcome from CEF whitepaper (ref:p26/39)
 
